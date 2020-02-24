@@ -5,5 +5,5 @@ def parrot(string = "Squawk!")
     return parrot
   else
     return parrot(string)
-  end 
+  end
 end
